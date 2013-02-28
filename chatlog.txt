@@ -1,0 +1,1 @@
+[{"username":"server","colour":"#e20000","message":"Peter has joined.","datestamp":1362030201638},{"username":"server","colour":"#e20000","message":"<div class=\"map\">1/26W Toorak Road</div>","datestamp":1362030236149},{"username":"server","colour":"#e20000","message":"<div class=\"map\">nandos</div>","datestamp":1362030248496}
