@@ -1,0 +1,80 @@
+<!doctype html>
+<head>
+	<title>PodLiaison</title>
+
+	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap-combined.min.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Wendy+One' rel='stylesheet' type='text/css'>
+	<link href='/assets/style.css' rel='stylesheet' type='text/css'>
+
+	<link rel="shortcut icon" href="http://www.livechatinc.com/wp-content/themes/livechat/images/download/icons_box/icon_title_chat.png" />
+
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/js/bootstrap.min.js"></script>
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAAe_AnLHKpiqyPCeLUxl6cQHnGHTituQ&sensor=false&libraries=places"></script>
+	<style>
+		#map_canvas {
+			position: absolute;
+			width:100%;
+			height:100%;
+		}
+		#map_canvas_wrap {
+			position: fixed;
+			top:0;
+			left:0;
+			right:0;
+			bottom:0;
+			z-index: -1;
+			opacity: 0.2;
+		}
+		.welcome {
+			margin: 300px auto;
+			width: 400px;
+			box-shadow: 0 0 40px white;
+			background: rgba(255, 255, 255, 0.5);
+			padding: 50px;
+			border-radius: 70px;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="welcome">
+		<h1>Hi, you are?</h1>
+		<div class="form-inline">
+		  <input type="text" class="input-large" id="signin-name">
+		  <a href='#' class="btn" id="signin">Self five!</a>
+		</div>
+	</div>
+
+	<div class="chat hide">
+		<div id="chatcontainer" class="right">
+			<div class="chatlogcontainer">
+				<div class="chatlog">
+				</div>
+			</div>
+			<div class="input">
+				<div class="inputcontainer">
+					<div class="row-fluid">
+						<div id="username" class="span1 meta"></div>
+						<div class="span10"><div id="chatinput" class="well" onblur="onDivBlur();" onmousedown="return cancelEvent(event);" onclick="return cancelEvent(event);" contentEditable="true" onmouseup="saveSelection();" onkeyup="saveSelection();" onfocus="restoreSelection();"></div></div>
+						<div class="span1 meta"><button id="submitButton" class="btn btn-primary" type="button">Send</button></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="left">
+			<ul class="userlist">
+			</ul>
+			<div class="infoPanel">
+				Ctrl + Space = Business Mode<br />
+				/help = Command list
+			</div>
+		</div>
+	</div>
+	
+	<script src="/assets/scripts.js"></script>
+</body>
+
+</html>

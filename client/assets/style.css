@@ -1,0 +1,159 @@
+
+html,body{
+	height: 100%
+}
+
+code {
+	background-color: white;
+}
+
+.welcome {
+	margin: 300px auto;
+}
+
+.welcome h1 {
+	width: 250px;
+	margin: 0 auto;
+	font-family: 'Wendy One', sans-serif;
+}
+
+.welcome .form-inline {
+	width: 320px;
+	margin: 20px auto;
+}
+
+.userlist {
+	margin: 10px;
+}
+
+ul.userlist li {
+	list-style-type: none;
+}
+
+ul.chatlog {
+	padding:0;
+	margin:0;
+}
+
+ul.chatlog li {
+	padding:0;
+	margin:0;
+	list-style-type: none;
+}
+
+.chat .meta {
+	text-align: right;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.chat{
+}
+
+.chat .text {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.chat .meta {
+	padding: 5px;
+	font-weight: bold;
+	font-size: 80%;
+}
+
+.chat .meta .datestamp {
+	font-weight: normal;
+	display: block;
+	/*line-height: 50%;*/
+}
+
+.input {
+	bottom: 0;
+	border-top: 1px solid black;
+}
+.input .inputcontainer {
+	padding: 10px;
+	background: white;
+}
+.input .inputcontainer textarea {
+	width: 100%;
+}
+
+.right, .input {
+	position: fixed;
+	left: 15%;
+	right: 0;
+	min-height: 100px;
+}
+#chatinput {
+	min-height: 58px;
+	margin-bottom: 0;
+	padding: 10px;
+}
+.right {
+	top: 0;
+	bottom: 100px;
+	padding: 10px;
+	
+	overflow-y: scroll;
+}
+.left {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 15%;
+
+	box-shadow: 0 0 10px;
+	background-color: whitesmoke;
+}
+
+.chatlogcontainer {
+	height: 100%;
+}
+
+.chatlog {
+}
+
+.businessMode .imgWrap {
+	width: 100px;
+	background: white;
+	position: relative;
+	font-size: 80%;
+	font-weight: bold;
+}
+.businessMode .imgWrap:before {
+	content:'Hover to see img';
+}
+.businessMode .imgWrap >img,
+.businessMode .imgWrap >div {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+	z-index: 9;
+}
+.businessMode .imgWrap:hover {
+	height: auto;
+	width: auto;
+	background: none;
+}
+.businessMode .imgWrap:hover >img,
+.businessMode .imgWrap:hover >div {
+	display: block;
+}
+
+.infoPanel {
+	position: absolute;
+	bottom: 0;
+	background: rgb(255, 247, 221);
+	border: 1px solid rgb(255, 212, 77);
+	font-size: 80%;
+	padding: 10px;
+	margin: 10px;
+}
+
+.map {
+	height: 300px;
+}
