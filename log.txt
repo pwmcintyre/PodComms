@@ -1,0 +1,693 @@
+2013-03-18T12:18:25.294Z - info: User reconnected: {"name":"pmac","colour":"#db8e9d","socketID":"qU3enxRwR4ezDSlMb5FM"}
+2013-03-18T12:18:52.033Z - info: User joined: {"name":"p","colour":"#991f4a","socketID":"6Dy0d597EDN85kUDb5FO"}
+2013-03-18T12:18:55.889Z - info: User left: p
+2013-03-18T12:18:57.753Z - info: User joined: {"name":"p","colour":"#a94fa8","socketID":"7vnk0RyFiX-E8VAHb5FP"}
+2013-03-18T12:19:45.383Z - info: User left: pmac
+2013-03-18T12:19:48.547Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:19:48.549Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:19:48.551Z - info: Chat history read success
+2013-03-18T12:19:48.562Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:19:48.562Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:19:48.563Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:19:48.569Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:19:48.570Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:19:48.570Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:19:48.571Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:19:48.572Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:19:50.801Z - info: User reconnected: {"name":"p","colour":"#a94fa8","socketID":"A2Nc3mYqqMwtemewcPh0"}
+2013-03-18T12:23:53.641Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:23:53.643Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:23:53.645Z - info: Chat history read success
+2013-03-18T12:23:53.655Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:23:53.655Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:23:53.655Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:23:53.664Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:23:53.664Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:23:53.664Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:23:53.665Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:23:53.666Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:23:55.985Z - error: Uncaught exception!
+2013-03-18T12:23:55.992Z - warn: About to exit.
+2013-03-18T12:23:56.617Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:23:56.618Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:23:56.620Z - info: Chat history read success
+2013-03-18T12:23:56.630Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:23:56.631Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:23:56.633Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:23:56.640Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:23:56.640Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:23:56.640Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:23:56.640Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:23:56.642Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:23:58.986Z - error: Uncaught exception!
+2013-03-18T12:23:58.995Z - warn: About to exit.
+2013-03-18T12:23:59.623Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:23:59.625Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:23:59.627Z - info: Chat history read success
+2013-03-18T12:23:59.637Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:23:59.638Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:23:59.638Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:23:59.644Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:23:59.645Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:23:59.645Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:23:59.645Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:23:59.649Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:01.987Z - error: Uncaught exception!
+2013-03-18T12:24:02.605Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:02.607Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:02.609Z - info: Chat history read success
+2013-03-18T12:24:02.619Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:02.619Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:02.620Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:02.626Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:02.626Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:02.627Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:02.627Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:02.628Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:04.990Z - error: Uncaught exception!
+2013-03-18T12:24:04.997Z - warn: About to exit.
+2013-03-18T12:24:05.618Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:05.620Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:05.622Z - info: Chat history read success
+2013-03-18T12:24:05.633Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:05.633Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:05.634Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:05.640Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:05.640Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:05.640Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:05.641Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:05.642Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:07.993Z - error: Uncaught exception!
+2013-03-18T12:24:08.632Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:08.634Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:08.636Z - info: Chat history read success
+2013-03-18T12:24:08.649Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:08.650Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:08.650Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:08.657Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:08.657Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:08.657Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:08.659Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:08.661Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:10.995Z - error: Uncaught exception!
+2013-03-18T12:24:11.002Z - warn: About to exit.
+2013-03-18T12:24:11.611Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:11.614Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:11.616Z - info: Chat history read success
+2013-03-18T12:24:11.627Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:11.628Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:11.628Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:11.635Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:11.635Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:11.636Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:11.636Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:11.637Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:14.232Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:14.234Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:14.236Z - info: Chat history read success
+2013-03-18T12:24:14.249Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:14.252Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:14.252Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:14.261Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:14.261Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:14.262Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:14.262Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:14.264Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:15.987Z - info: User reconnected: {"name":"p","colour":"#a94fa8","socketID":"DOsMLtdUO6-YAKIndQY-"}
+2013-03-18T12:24:33.253Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:33.255Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:33.257Z - info: Chat history read success
+2013-03-18T12:24:33.267Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:33.267Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:33.267Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:33.274Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:33.274Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:33.274Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:33.275Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:33.276Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:35.039Z - info: User reconnected: {"name":"p","colour":"#a94fa8","socketID":"I8R9n8tBJKbQ7B0XdVCR"}
+2013-03-18T12:24:53.167Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:24:53.169Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:24:53.171Z - info: Chat history read success
+2013-03-18T12:24:53.185Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:24:53.186Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:24:53.186Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:24:53.194Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:24:53.195Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:24:53.195Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:24:53.195Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:24:53.197Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:24:55.049Z - info: User reconnected: {"name":"p","colour":"#a94fa8","socketID":"Itg5RdMRmAUVgwEKdZ5j"}
+2013-03-18T12:25:12.006Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:25:12.007Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:25:12.009Z - info: Chat history read success
+2013-03-18T12:25:12.019Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:25:12.020Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:25:12.020Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:25:12.026Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:25:12.026Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:25:12.027Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:25:12.027Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:25:12.028Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:25:14.057Z - info: User reconnected: {"name":"p","colour":"#a94fa8","socketID":"mXtlUtOAWxl5qUUkdefq"}
+2013-03-18T12:25:18.189Z - info: User left: p
+2013-03-18T12:25:20.783Z - info: User joined: {"name":"pmac","colour":"#8ea8bf","socketID":"-tQM339zXHQLW9Mzdefr"}
+2013-03-18T12:25:51.586Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:25:51.588Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:25:51.590Z - info: Chat history read success
+2013-03-18T12:25:51.602Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:25:51.602Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:25:51.602Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:25:51.609Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:25:51.610Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:25:51.610Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:25:51.610Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:25:51.614Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:25:53.887Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"1hXTgA4Cx-Zz0FIWdoKU"}
+2013-03-18T12:26:10.920Z - info: User joined: {"name":"pmac2","colour":"#c7e1a","socketID":"AdGBypK1FRC7tgSDdoKV"}
+2013-03-18T12:26:26.014Z - info: User left: pmac2
+2013-03-18T12:26:53.849Z - info: User joined: {"name":"pmac3","colour":"#30364","socketID":"OD1eX4L0PKroA83qdoKW"}
+2013-03-18T12:27:46.747Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:27:46.749Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:27:46.752Z - info: Chat history read success
+2013-03-18T12:27:46.766Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:27:46.766Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:27:46.766Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:27:46.773Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:27:46.773Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:27:46.774Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:27:46.774Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:27:46.775Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:27:48.946Z - info: User reconnected: {"name":"pmac3","colour":"#30364","socketID":"ZFk2PDT9SFsNsAqBeERj"}
+2013-03-18T12:27:50.959Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"-qLpqC0TflukYwAAeERk"}
+2013-03-18T12:28:11.043Z - info: User left: pmac3
+2013-03-18T12:28:15.397Z - info: User joined: {"name":"pmac4","colour":"#2c6324","socketID":"Mlwud4ftFF-jQonseERl"}
+2013-03-18T12:28:31.250Z - info: User left: pmac4
+2013-03-18T12:28:33.154Z - info: User joined: {"name":"a","colour":"#b92945","socketID":"AELMutN5sIOF71lQeERm"}
+2013-03-18T12:28:40.234Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:28:40.236Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:28:40.237Z - info: Chat history read success
+2013-03-18T12:28:40.248Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:28:40.248Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:28:40.248Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:28:40.258Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:28:40.259Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:28:40.260Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:28:40.260Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:28:40.262Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:28:41.997Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"iT287AwCQ0vpj_nReRVa"}
+2013-03-18T12:28:53.009Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"-Ri7fBZlHnwZ4phLeRVb"}
+2013-03-18T12:29:42.003Z - info: User left: pmac
+2013-03-18T12:29:44.068Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"Ws-KqYWkkwYaeuDjeRVc"}
+2013-03-18T12:30:34.215Z - info: User left: a
+2013-03-18T12:30:36.107Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"1tTZVxqBWw_ZFCe1eRVd"}
+2013-03-18T12:31:06.260Z - info: Loaded 15 gif categories from file
+2013-03-18T12:32:54.978Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:32:54.979Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:32:54.981Z - info: Chat history read success
+2013-03-18T12:32:54.994Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:32:54.996Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:32:54.997Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:32:55.006Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:32:55.007Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:32:55.007Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:32:55.007Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:32:55.009Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:32:57.193Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"mA9RvYEH3gEMV2s9fPhu"}
+2013-03-18T12:32:58.193Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"lVERAhPTWpssuE8efPhv"}
+2013-03-18T12:33:10.051Z - info: Loaded 15 gif categories from file
+2013-03-18T12:33:25.392Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:33:25.394Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:33:25.396Z - info: Chat history read success
+2013-03-18T12:33:25.406Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:33:25.406Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:33:25.406Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:33:25.413Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:33:25.413Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:33:25.414Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:33:25.414Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:33:25.415Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:33:27.232Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"94g_TVACR0OKj_sSfW88"}
+2013-03-18T12:33:29.759Z - info: Loaded 15 gif categories from file
+2013-03-18T12:33:29.768Z - error: Uncaught exception!
+2013-03-18T12:33:29.770Z - warn: About to exit.
+2013-03-18T12:33:30.354Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:33:30.355Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:33:30.357Z - info: Chat history read success
+2013-03-18T12:33:30.372Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:33:30.373Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:33:30.373Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:33:30.380Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:33:30.380Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:33:30.381Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:33:30.382Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:33:30.383Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:33:32.235Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"wAAhbUUbu0BLgnT9fYKg"}
+2013-03-18T12:33:33.239Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"GcD0lhzcgmLFOTMUfYKh"}
+2013-03-18T12:33:51.115Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:33:51.117Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:33:51.118Z - info: Chat history read success
+2013-03-18T12:33:51.128Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:33:51.129Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:33:51.129Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:33:51.136Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:33:51.136Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:33:51.137Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:33:51.137Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:33:51.139Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:33:53.252Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"tXG06YNcfXf0_gvcfdO3"}
+2013-03-18T12:34:03.258Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"LctdMbxP9TlBT86lfdO4"}
+2013-03-18T12:34:06.415Z - info: Loaded 15 gif categories from file
+2013-03-18T12:34:06.424Z - error: Uncaught exception!
+2013-03-18T12:34:06.429Z - warn: About to exit.
+2013-03-18T12:34:07.053Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:34:07.054Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:34:07.056Z - info: Chat history read success
+2013-03-18T12:34:07.067Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:34:07.067Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:34:07.068Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:34:07.075Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:34:07.076Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:34:07.076Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:34:07.076Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:34:07.078Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:34:09.264Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"MD18OyKynhA6cd3PfhH3"}
+2013-03-18T12:34:19.272Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"wMfsDmN2j0J4yTCLfhH4"}
+2013-03-18T12:34:51.235Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:34:51.238Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:34:51.240Z - info: Chat history read success
+2013-03-18T12:34:51.250Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:34:51.250Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:34:51.251Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:34:51.257Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:34:51.258Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:34:51.258Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:34:51.259Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:34:51.260Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:34:53.308Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"O28G2Tw7uKbKNBQofr6T"}
+2013-03-18T12:34:54.309Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"dghHGMGm016Ji3ENfr6U"}
+2013-03-18T12:35:19.862Z - info: User joined: {"name":"asdf","colour":"#979ba","socketID":"hy3DxMb6bYWQosvifr6X"}
+2013-03-18T12:35:28.211Z - info: Loaded 15 gif categories from file
+2013-03-18T12:36:46.744Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:36:46.745Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:36:46.747Z - info: Chat history read success
+2013-03-18T12:36:46.758Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:36:46.758Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:36:46.759Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:36:46.765Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:36:46.765Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:36:46.766Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:36:46.766Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:36:46.767Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:36:48.814Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"Jg3uNA2pp7sIrP1FgIHG"}
+2013-03-18T12:36:50.819Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"m9JThNxECSWmcL08gIHH"}
+2013-03-18T12:36:58.535Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:36:58.536Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:36:58.538Z - info: Chat history read success
+2013-03-18T12:36:58.548Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:36:58.549Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:36:58.549Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:36:58.556Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:36:58.556Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:36:58.556Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:36:58.557Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:36:58.558Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:37:00.820Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"KpdQaF4q9PncJV5cgK_P"}
+2013-03-18T12:37:01.821Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"7meJYSqgncMH3bStgK_Q"}
+2013-03-18T12:37:02.904Z - info: User reconnected: {"name":"asdf","colour":"#979ba","socketID":"VI4DcKhYcQ87lfu5gK_R"}
+2013-03-18T12:37:06.002Z - info: Loaded 15 gif categories from file
+2013-03-18T12:42:02.850Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:42:02.851Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:42:02.853Z - info: Chat history read success
+2013-03-18T12:42:02.865Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:42:02.865Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:42:02.866Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:42:02.872Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:42:02.873Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:42:02.873Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:42:02.874Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:42:02.876Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:42:05.102Z - info: User reconnected: {"name":"asdf","colour":"#979ba","socketID":"ikqrKdcfT6llS4LChVSO"}
+2013-03-18T12:42:06.101Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"rb3MZBcKuY81_gFWhVSP"}
+2013-03-18T12:42:07.901Z - info: Loaded 15 gif categories from file
+2013-03-18T12:42:16.108Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"5wsj5CX5Wqea5S-IhVSQ"}
+2013-03-18T12:42:32.150Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:42:32.152Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:42:32.153Z - info: Chat history read success
+2013-03-18T12:42:32.168Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:42:32.168Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:42:32.168Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:42:32.178Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:42:32.178Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:42:32.179Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:42:32.179Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:42:32.180Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:42:34.121Z - info: User reconnected: {"name":"asdf","colour":"#979ba","socketID":"3rwnSOhDevPyK5t2hccG"}
+2013-03-18T12:42:35.119Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"DQGeJZ0oeXglla-QhccH"}
+2013-03-18T12:42:36.120Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"JOlEY_quWphfOkmhhccI"}
+2013-03-18T12:47:24.749Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:47:24.751Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:47:24.753Z - info: Chat history read success
+2013-03-18T12:47:24.763Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:47:24.764Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:47:24.764Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:47:24.770Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:47:24.770Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:47:24.771Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:47:24.772Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:47:24.773Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:47:26.329Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"c0XnH6iA34nuNTPrij38"}
+2013-03-18T12:47:28.331Z - info: User reconnected: {"name":"asdf","colour":"#979ba","socketID":"mhjoWOf7vINY5Yrkij39"}
+2013-03-18T12:47:36.332Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"Kxea3gmlKbF_sFrtij3-"}
+2013-03-18T12:47:59.297Z - info: User left: asdf
+2013-03-18T12:48:02.899Z - info: User joined: {"name":"asdf","colour":"#165724","socketID":"hwFKVZjTY9wpMJR7ij3_"}
+2013-03-18T12:48:26.349Z - info: User left: pmac
+2013-03-18T12:48:28.821Z - info: User reconnected: {"name":"pmac","colour":"#8ea8bf","socketID":"jgoXekgvDWaV2bLLij4A"}
+2013-03-18T12:49:17.217Z - info: User left: a
+2013-03-18T12:49:18.866Z - info: User reconnected: {"name":"a","colour":"#b92945","socketID":"J0-MmrUotQZKGscVij4B"}
+2013-03-18T12:49:27.152Z - info: User left: pmac
+2013-03-18T12:49:29.770Z - info: User left: a
+2013-03-18T12:49:31.902Z - info: User left: asdf
+2013-03-18T12:49:33.965Z - info: User joined: {"name":"a","colour":"#9ca1a8","socketID":"tcdSzPb4GhPkUTanij4C"}
+2013-03-18T12:49:37.805Z - info: User joined: {"name":"b","colour":"#3edb05","socketID":"VGDGxUrvzT-a-stuij4D"}
+2013-03-18T12:49:40.678Z - info: User joined: {"name":"c","colour":"#724909","socketID":"8vdiEnsbvJ5NJIhIij4E"}
+2013-03-18T12:49:53.141Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:49:53.143Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:49:53.146Z - info: Chat history read success
+2013-03-18T12:49:53.156Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:49:53.157Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:49:53.157Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:49:53.166Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:49:53.166Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:49:53.167Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:49:53.167Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:49:53.168Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:49:54.835Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"JgGin9jEjpGhWEQGjIGo"}
+2013-03-18T12:49:56.686Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"qe9SzSmVzwxDgSptjIGp"}
+2013-03-18T12:49:56.991Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"QTOOXN6bA7lt-z-jjIGq"}
+2013-03-18T12:50:26.411Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:50:26.413Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:50:26.415Z - info: Chat history read success
+2013-03-18T12:50:26.428Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:50:26.428Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:50:26.432Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:50:26.443Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:50:26.443Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:50:26.444Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:50:26.446Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:50:26.450Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:50:28.859Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"Wzl-qQnkEc9EiKnbjQOI"}
+2013-03-18T12:50:30.037Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"tHGKp0n0FeSrjKoXjQOJ"}
+2013-03-18T12:50:38.738Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"vZfp0K59cvfWAih4jQOK"}
+2013-03-18T12:51:28.893Z - info: User left: b
+2013-03-18T12:51:30.932Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"JhmKT_lZGuNMqeukjQOL"}
+2013-03-18T12:52:19.008Z - info: User left: c
+2013-03-18T12:52:20.807Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"j9Ry_Uk6nciDX-yrjQOM"}
+2013-03-18T12:52:49.034Z - info: Loaded 15 gif categories from file
+2013-03-18T12:53:36.713Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:53:36.714Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:53:36.716Z - info: Chat history read success
+2013-03-18T12:53:36.727Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:53:36.727Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:53:36.727Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:53:36.736Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:53:36.737Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:53:36.737Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:53:36.737Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:53:36.739Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:53:38.855Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"krUQ8shkHtk1zkBGj-r0"}
+2013-03-18T12:53:44.316Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"OVSA0S8ulaftOV1uj-r1"}
+2013-03-18T12:53:44.486Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"kEx5Y9wOWnaqcNAQj-r2"}
+2013-03-18T12:53:56.035Z - info: Loaded 15 gif categories from file
+2013-03-18T12:55:08.634Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:55:08.636Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:55:08.638Z - info: Chat history read success
+2013-03-18T12:55:08.650Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:55:08.650Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:55:08.651Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:55:08.657Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:55:08.660Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:55:08.661Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:55:08.661Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:55:08.663Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:55:10.320Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"Ssv1TqWoUA6qCNgrkVIH"}
+2013-03-18T12:55:11.779Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:55:11.781Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:55:11.783Z - info: Chat history read success
+2013-03-18T12:55:11.793Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:55:11.795Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:55:11.796Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:55:11.807Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:55:11.808Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:55:11.808Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:55:11.808Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:55:11.810Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:55:15.321Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"0dYvaB4fv2cE8I1lkV5W"}
+2013-03-18T12:55:22.526Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"PtLcIS-yx0GER2ZNkV5f"}
+2013-03-18T12:55:33.129Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"LtUGgjiUITkoEhLJkV5y"}
+2013-03-18T12:55:52.790Z - info: Loaded 15 gif categories from file
+2013-03-18T12:57:09.338Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:57:09.340Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:57:09.342Z - info: Chat history read success
+2013-03-18T12:57:09.352Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:57:09.353Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:57:09.353Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:57:09.359Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:57:09.360Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:57:09.360Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:57:09.360Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:57:09.362Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:57:10.537Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"xqgA_-MRr0Q3VZnXkymM"}
+2013-03-18T12:57:11.404Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"2Ewd7YdAg2I64GHekymL"}
+2013-03-18T12:57:30.179Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"tYkritw9Bbr2osqSkyms"}
+2013-03-18T12:57:31.755Z - info: callback
+2013-03-18T12:57:31.756Z - info: Loaded 15 gif categories from file
+2013-03-18T12:57:48.297Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:57:48.299Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:57:48.304Z - info: Chat history read success
+2013-03-18T12:57:48.315Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:57:48.315Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:57:48.316Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:57:48.323Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:57:48.323Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:57:48.324Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:57:48.324Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:57:48.325Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:57:49.186Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"8-4anIb8sYBkyBagk8G4"}
+2013-03-18T12:57:49.574Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"Wd31KP-3kPxKUX35k8G5"}
+2013-03-18T12:57:50.415Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"CrQujKHEIi3Hh9f2k8G3"}
+2013-03-18T12:57:54.340Z - info: callback
+2013-03-18T12:57:54.340Z - info: Loaded 15 gif categories from file
+2013-03-18T12:58:42.076Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:58:42.078Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:58:42.081Z - info: Chat history read success
+2013-03-18T12:58:42.092Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:58:42.093Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:58:42.093Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:58:42.100Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:58:42.101Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:58:42.101Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:58:42.101Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:58:42.103Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:58:43.198Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"5FjvQB7Qru1EzOVGlJPK"}
+2013-03-18T12:58:43.581Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"szlGvAiVTSNGsAG5lJPL"}
+2013-03-18T12:58:44.476Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"VcESYMhM6FOxeN5elJPJ"}
+2013-03-18T12:58:45.579Z - info: callback
+2013-03-18T12:58:45.580Z - info: Loaded 15 gif categories from file
+2013-03-18T12:59:03.928Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:59:03.930Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:59:03.932Z - info: Chat history read success
+2013-03-18T12:59:03.946Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:59:03.947Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:59:03.947Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:59:03.954Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:59:03.954Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:59:03.954Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:59:03.954Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:59:03.956Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:59:05.210Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"PhocverhDW9L2TSelOkp"}
+2013-03-18T12:59:05.486Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"uDzxzPZuwgiIRbCqlOko"}
+2013-03-18T12:59:07.803Z - info: Loaded 15 gif categories from file
+2013-03-18T12:59:11.656Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"bWaUfaYg0N670cyFlOk1"}
+2013-03-18T12:59:21.870Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:59:21.872Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:59:21.874Z - info: Chat history read success
+2013-03-18T12:59:21.884Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:59:21.885Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:59:21.885Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:59:21.892Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:59:21.892Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:59:21.892Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:59:21.893Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:59:21.898Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:59:23.218Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"X5QCROYvXUsvWoPslS84"}
+2013-03-18T12:59:23.494Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"Fkcd02S3KyfakJ9clS83"}
+2013-03-18T12:59:25.669Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"36zn723bTG7kyryOlS89"}
+2013-03-18T12:59:27.426Z - info: Loaded 15 gif categories from file
+2013-03-18T12:59:45.490Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T12:59:45.492Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T12:59:45.495Z - info: Chat history read success
+2013-03-18T12:59:45.507Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T12:59:45.507Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T12:59:45.507Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T12:59:45.515Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T12:59:45.516Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T12:59:45.516Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T12:59:45.516Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T12:59:45.519Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T12:59:47.526Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"x_NuLQxhgxcJquXSlYt3"}
+2013-03-18T12:59:47.716Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"tHrdw_7iCt5r_LrqlYt7"}
+2013-03-18T12:59:48.327Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"abJ_CO7lc5iz1FPElYt8"}
+2013-03-18T12:59:49.418Z - info: Loaded 15 gif categories from file
+2013-03-18T13:01:00.514Z - info: Loaded 15 gif categories from file
+2013-03-18T13:01:46.654Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:01:46.656Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:01:46.658Z - info: Chat history read success
+2013-03-18T13:01:46.669Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:01:46.669Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:01:46.669Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:01:46.676Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:01:46.677Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:01:46.677Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:01:46.677Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:01:46.679Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:01:47.788Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"VIqX-Uw6bvvZ2ttdl2TU"}
+2013-03-18T13:01:48.607Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"iZCmsfQkuRLtgS7ql2TT"}
+2013-03-18T13:01:54.362Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"HnzextFgVHXFSwJhl2Tf"}
+2013-03-18T13:01:55.373Z - info: Loaded 15 gif categories from file
+2013-03-18T13:02:01.630Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:02:01.632Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:02:01.634Z - info: Chat history read success
+2013-03-18T13:02:01.645Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:02:01.646Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:02:01.646Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:02:01.653Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:02:01.653Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:02:01.653Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:02:01.653Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:02:01.655Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:02:03.621Z - info: User reconnected: {"name":"b","colour":"#3edb05","socketID":"o7uMwIh2y_DuBzmil59I"}
+2013-03-18T13:02:06.796Z - info: User reconnected: {"name":"a","colour":"#9ca1a8","socketID":"UieDpC_QrsnuMWdOl59W"}
+2013-03-18T13:02:08.366Z - info: User reconnected: {"name":"c","colour":"#724909","socketID":"azuFuUGUvYwjIxnll59Z"}
+2013-03-18T13:02:13.045Z - info: Loaded 15 gif categories from file
+2013-03-18T13:02:24.007Z - info: User left: b
+2013-03-18T13:02:35.921Z - info: User joined: {"name":"pmac","colour":"#f7d0c5","socketID":"I0vkpX5bqsuENxiCl59b"}
+2013-03-18T13:03:03.262Z - info: User joined: {"name":"pmac2","colour":"#2876dc","socketID":"0RYnVCuI7ks_4xXZl59c"}
+2013-03-18T13:03:17.271Z - info: User joined: {"name":"pmac3","colour":"#59fbfa","socketID":"YOS_QCaZ5IRsPHLpl59d"}
+2013-03-18T13:03:25.293Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:03:25.294Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:03:25.296Z - info: Chat history read success
+2013-03-18T13:03:25.307Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:03:25.307Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:03:25.307Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:03:25.314Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:03:25.314Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:03:25.314Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:03:25.315Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:03:25.318Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:03:28.578Z - info: User reconnected: {"name":"pmac2","colour":"#2876dc","socketID":"WP9k1lDODj6beYIxmOYU"}
+2013-03-18T13:03:30.075Z - info: User reconnected: {"name":"pmac","colour":"#f7d0c5","socketID":"5FrV7sIzSSpwxFqOmOYV"}
+2013-03-18T13:03:38.280Z - info: User reconnected: {"name":"pmac3","colour":"#59fbfa","socketID":"aRodPxAH6B0RDnUGmOYW"}
+2013-03-18T13:03:55.581Z - info: User left: pmac3
+2013-03-18T13:04:03.790Z - info: User left: pmac
+2013-03-18T13:04:07.957Z - info: User joined: {"name":"2asdf","colour":"#9539e6","socketID":"JX6uvC0dE1AsDeOWmOYX"}
+2013-03-18T13:04:27.236Z - error: Uncaught exception!
+2013-03-18T13:04:27.239Z - warn: About to exit.
+2013-03-18T13:04:27.855Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:04:27.859Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:04:27.863Z - info: Chat history read success
+2013-03-18T13:04:27.874Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:04:27.874Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:04:27.874Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:04:27.883Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:04:27.883Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:04:27.883Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:04:27.884Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:04:27.885Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:04:29.833Z - info: User reconnected: {"name":"2asdf","colour":"#9539e6","socketID":"FYLxOLYpViECAHsWmdp_"}
+2013-03-18T13:04:34.719Z - error: Uncaught exception!
+2013-03-18T13:04:34.723Z - warn: About to exit.
+2013-03-18T13:04:35.343Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:04:35.344Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:04:35.348Z - info: Chat history read success
+2013-03-18T13:04:35.358Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:04:35.358Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:04:35.359Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:04:35.365Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:04:35.365Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:04:35.366Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:04:35.366Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:04:35.367Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:04:37.011Z - info: User reconnected: {"name":"2asdf","colour":"#9539e6","socketID":"OiMb0zrqKZLm8UAJmfe9"}
+2013-03-18T13:04:52.519Z - error: Uncaught exception!
+2013-03-18T13:04:52.522Z - warn: About to exit.
+2013-03-18T13:04:53.143Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:04:53.144Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:04:53.147Z - info: Chat history read success
+2013-03-18T13:04:53.157Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:04:53.157Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:04:53.158Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:04:53.168Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:04:53.168Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:04:53.168Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:04:53.168Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:04:53.170Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:04:54.840Z - info: User reconnected: {"name":"2asdf","colour":"#9539e6","socketID":"6PfDCmQ7nsXXYsCqmj1D"}
+2013-03-18T13:05:37.397Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:05:37.401Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:05:37.403Z - info: Chat history read success
+2013-03-18T13:05:37.415Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:05:37.416Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:05:37.416Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:05:37.423Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:05:37.423Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:05:37.423Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:05:37.423Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:05:37.425Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:05:39.096Z - info: User reconnected: {"name":"2asdf","colour":"#9539e6","socketID":"3Y_5E8yM3J3vXybTmuog"}
+2013-03-18T13:06:06.773Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:06:06.775Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:06:06.777Z - info: Chat history read success
+2013-03-18T13:06:06.790Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:06:06.790Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:06:06.791Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:06:06.802Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:06:06.803Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:06:06.803Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:06:06.804Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:06:06.805Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:06:08.895Z - info: User reconnected: {"name":"2asdf","colour":"#9539e6","socketID":"5t6G6fHLn2M2QHQgm1zk"}
+2013-03-18T13:06:18.833Z - info: User left: 2asdf
+2013-03-18T13:06:21.413Z - info: User joined: {"name":"pmac","colour":"#4d70ce","socketID":"feq19rHAIwbx-epRm1zl"}
+2013-03-18T13:06:25.818Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:06:25.820Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:06:25.822Z - info: Chat history read success
+2013-03-18T13:06:25.833Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:06:25.833Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:06:25.834Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:06:25.845Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:06:25.845Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:06:25.845Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:06:25.849Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:06:25.851Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:06:27.416Z - info: User reconnected: {"name":"pmac","colour":"#4d70ce","socketID":"ELWuDTAD-r890From6dH"}
+2013-03-18T13:06:34.231Z - info: User joined: {"name":"pmac2","colour":"#e19625","socketID":"sw4w-Ls8Z9KfIogFm6dI"}
+2013-03-18T13:06:37.434Z - info: User joined: {"name":"pmac23","colour":"#c901a2","socketID":"X1n5l0hiZR2mKaSRm6dJ"}
+2013-03-18T13:06:46.271Z - debug: Routing:  get=[path=/assets/*, method=get, callbacks=[undefined], keys=[], , path=/*, method=get, callbacks=[undefined], keys=[], ]
+2013-03-18T13:06:46.273Z - info: Command registered: help regex: /^/help|halp\b ?(.*)/
+2013-03-18T13:06:46.275Z - info: Chat history read success
+2013-03-18T13:06:46.286Z - info: Command registered: gif regex: /^/gif\b ?(.*)/
+2013-03-18T13:06:46.286Z - info: Command registered: giflist regex: /^/giflist\b ?(.*)/
+2013-03-18T13:06:46.286Z - info: Command registered: gifreload regex: /^/gifreload\b ?(.*)/
+2013-03-18T13:06:46.292Z - info: Command registered: lunch regex: /^/lunch\b ?(.*)/
+2013-03-18T13:06:46.294Z - info: Command registered: lunchadd regex: /^/lunchadd\b ?(.*)/
+2013-03-18T13:06:46.294Z - info: Command registered: lunchdel regex: /^/lunchdel\b ?(.*)/
+2013-03-18T13:06:46.294Z - info: Command registered: lunchlist regex: /^/lunchlist\b ?(.*)/
+2013-03-18T13:06:46.297Z - info: Command registered: map regex: /^/map\b ?(.*)/
+2013-03-18T13:06:48.445Z - info: User reconnected: {"name":"pmac23","colour":"#c901a2","socketID":"uOGW991LOtRIpi39m_cw"}
+2013-03-18T13:06:49.052Z - info: User reconnected: {"name":"pmac2","colour":"#e19625","socketID":"17gWic0tk18UGnrTm_cx"}
+2013-03-18T13:06:58.556Z - info: User reconnected: {"name":"pmac","colour":"#4d70ce","socketID":"fotVihKT5tMtx6qfm_cy"}
+2013-03-18T13:07:49.062Z - info: User left: pmac2
+2013-03-18T13:07:51.104Z - info: User reconnected: {"name":"pmac2","colour":"#e19625","socketID":"LJ8tWHTXxptCRojdm_cz"}
+2013-03-18T13:08:39.710Z - info: User left: pmac
+2013-03-18T13:08:41.620Z - info: User reconnected: {"name":"pmac","colour":"#4d70ce","socketID":"8f_5HnWzljCyU_jDm_c0"}

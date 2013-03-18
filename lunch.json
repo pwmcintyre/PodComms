@@ -1,18 +1,18 @@
 [
     {
         "name": "China Red",
-        "score": 5,
-        "vetoCount": 0
+        "score": 11,
+        "vetoCount": 1
     },
     {
         "name": "Trunk",
-        "score": 3,
-        "vetoCount": 0
+        "score": 4,
+        "vetoCount": 2
     },
     {
         "name": "Guzman y Gomez",
-        "score": 1,
-        "vetoCount": 1
+        "score": 2,
+        "vetoCount": 2
     },
     {
         "name": "Crystal Jade Yum Cha",
@@ -21,12 +21,12 @@
     },
     {
         "name": "Kinetic",
-        "score": 0,
+        "score": -1,
         "vetoCount": 0
     },
     {
         "name": "Minh Xuong",
-        "score": 1,
+        "score": 0,
         "vetoCount": 0
     },
     {
@@ -37,7 +37,7 @@
     {
         "name": "A1",
         "score": 0,
-        "vetoCount": 0
+        "vetoCount": 1
     },
     {
         "name": "Nandos Russell Street",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Mad Mex",
-        "score": -1,
+        "score": 0,
         "vetoCount": 0
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "name": "Nama Nama",
-        "score": -2,
+        "score": -3,
         "vetoCount": 0
     },
     {

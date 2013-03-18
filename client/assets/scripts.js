@@ -20,6 +20,8 @@ var PodComms = (function (parent, $, win) {
 
 	// For reconnects
 		testConnectionInterval,
+		testConnectionIntervalTime = 1000,
+		lastMessage,
 
 	// Remembers if page is focused or not
 		windowFocus = true,
@@ -100,6 +102,8 @@ var PodComms = (function (parent, $, win) {
 		});
 
 		if(atBottom) scrollToBottom();
+
+		lastMessage = data;
 	}
 
 	function scrollToBottom() {
@@ -110,7 +114,7 @@ var PodComms = (function (parent, $, win) {
 	function signin () {
 		clearInterval(titleBlinkInterval);
 		if (!signedIn) {
-			testConnectionInterval = setInterval(testConnection, 5000);
+			testConnectionInterval = setInterval(testConnection, testConnectionIntervalTime);
 			$('#signin').addClass('disabled');
 			socket.emit('sendSignIn', $('#signin-name').val());
 		}
@@ -120,7 +124,7 @@ var PodComms = (function (parent, $, win) {
 		signin();
 	}
 	function testConnection() {
-		var response = socket.emit('testConnection', userdata);
+		var response = socket.emit('testConnection', {user: userdata, lastMessage: lastMessage});
 		if( !response.socket.connected ) {
 			console.log( 'Lost connection, should auto-reconnect annnnnnny second' );
 		}
